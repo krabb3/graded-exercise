@@ -2,9 +2,16 @@
 
 ## Commit Proposal
 
-Matriculation Number: <to be filled by student>
+Matriculation Number: 10100659
 
-Project idea short description: 
+Project idea short description: Recipes App
+- Enter a name, a description with the steps
+- Have pictures
+- Have some ranking for difficulty and quality
+- Add the time needed
+- Have different steps with a picture for each and an ingredient list
+- Store them in a mysql or postgresql database
+- Nice looking dashboard with a searchbar
 
 
 ## Project confirmation
